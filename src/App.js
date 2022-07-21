@@ -1,4 +1,7 @@
 import './App.css';
+import "materialize-css/dis/css/materialize.min.css";
+import "materialize-css/dis/js/materialize.min.js";
+
 
 function App() {
   return (
